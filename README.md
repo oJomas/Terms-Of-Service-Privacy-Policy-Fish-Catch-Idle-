@@ -1,9 +1,10 @@
 # Terms-Of-Service-Privacy-Policy-Fish-Catch-Idle-
 This repository contains the Terms of Service and Privacy Policy for the game Fish Catch Idle, released on CrazyGames!
 
-TERMS OF SERVICE
 
-Last Updated: July 6, 2026
+
+
+TERMS OF SERVICE
 
 Welcome to Fish Catch Idle!
 
@@ -83,13 +84,11 @@ Continued use of the Game after changes have been published constitutes acceptan
 
 If you have any questions regarding these Terms, please contact:
 
-Email:
-jomadasabr@gmail.com
+
+
 
 
 PRIVACY POLICY
-
-Last Updated: July 6, 2026
 
 This Privacy Policy explains how Fish Catch Idle ("the Game") collects, uses, and protects information when you play the Game.
 
